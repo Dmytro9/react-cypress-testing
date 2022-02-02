@@ -4,5 +4,5 @@
   "env": {
     "celtics": "Boston Celtics"
   },
-  "video": false
+  "video": true
 }

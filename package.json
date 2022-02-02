@@ -1,5 +1,5 @@
 {
-  "name": "nba-scoreboard",
+  "name": "react-cypress-testing",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,7 +9,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Chris DeSilva",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
